@@ -8,8 +8,6 @@ public class rotate90 {
 
         int[][] arr1 = new int[3][3];
 
-
-
         System.out.println("Enter elements of matrix:");
 
         for (int i = 0; i < 3; i++) { // rows
