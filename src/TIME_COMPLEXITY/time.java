@@ -40,6 +40,8 @@ public class time {
                 //nested loop multiply both tc
 
             }
+            // O(n^3)>O(n^2)
+            // it is faster
 
         }
 
