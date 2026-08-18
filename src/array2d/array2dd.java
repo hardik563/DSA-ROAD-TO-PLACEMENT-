@@ -7,7 +7,7 @@ public class array2dd  {
         arr[0][1]=101;
         arr[0][2]=12;
         arr[1][0]=1;
-        arr[1][1]=23;
+        arr[1][1]=239;
         arr[1][2]=6;
         arr[2][0]=56;
         arr[2][1]=4;
