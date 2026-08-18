@@ -16,7 +16,7 @@ public class storerollandmarks {
         System.out.println("Roll no   Marks");
 
         for (int i = 1; i < 4; i++) {
-            for (int j = 0; j < 2 ; j++) {
+            for (int j = 1; j < 2 ; j++) {
                 System.out.print(arr[i][j]+  "      ");
 
             }
