@@ -10,5 +10,7 @@ public class timepractise {
         }
         System.out.println(c);
         //tc will be O(n)
+// if sqrt then tc will be log(logn)
+
     }
 }
