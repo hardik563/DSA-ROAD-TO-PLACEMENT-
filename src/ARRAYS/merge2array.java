@@ -10,7 +10,7 @@ public class merge2array {
         int i=0,j=0,k=0;
         //mergearray
         while(i<m && j<n){
-
+//merge of 2 array
             if(arr[i]<arr1[j]) {
                 o[k] = arr[i];
                 i++;
