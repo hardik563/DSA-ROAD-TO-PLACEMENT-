@@ -15,6 +15,5 @@ public class timepractise {
             // for this also tc will be O(log n)
             System.out.println(i);
         }
-
     }
 }
