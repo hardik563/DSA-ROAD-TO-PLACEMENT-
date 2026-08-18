@@ -13,6 +13,7 @@ public class gcd {
         long y = b;
 
         while (b != 0) {
+            
             long rem = a % b;
             a = b;
             b = rem;
