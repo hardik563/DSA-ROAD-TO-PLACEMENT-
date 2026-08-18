@@ -17,7 +17,6 @@ public class merge2array {
                 o[k] = arr[i];
                 i++;
             }
-
             else{
                 o[k]=arr1[j];
                 j++;
