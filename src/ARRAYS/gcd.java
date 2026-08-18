@@ -1,7 +1,6 @@
 package ARRAYS;
 
 import java.util.*;
-
 public class gcd {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -13,7 +12,7 @@ public class gcd {
         long y = b;
 
         while (b != 0) {
-            
+
             long rem = a % b;
             a = b;
             b = rem;
