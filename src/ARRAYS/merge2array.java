@@ -14,8 +14,9 @@ public class merge2array {
             if(arr[i]<arr1[j]) {
                 o[k] = arr[i];
                 i++;
-                
+
             }
+            
             else{
                 o[k]=arr1[j];
                 j++;
