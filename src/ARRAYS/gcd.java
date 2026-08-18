@@ -15,8 +15,9 @@ public class gcd {
 
             long rem = a % b;
             a = b;
-            b = rem;
             
+            b = rem;
+
         }
         long gcd = a;
         long lcm = (x / gcd) * y;
