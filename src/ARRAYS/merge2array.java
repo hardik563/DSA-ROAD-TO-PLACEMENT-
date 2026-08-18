@@ -8,6 +8,7 @@ public class merge2array {
         int n=arr1.length;
         int []o=new int [m+n];
         int i=0,j=0,k=0;
+        
         //mergearray
         while(i<m && j<n){
 //merge of 2 array
@@ -16,7 +17,7 @@ public class merge2array {
                 i++;
 
             }
-            
+
             else{
                 o[k]=arr1[j];
                 j++;
