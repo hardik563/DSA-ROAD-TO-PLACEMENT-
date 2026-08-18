@@ -14,7 +14,7 @@ public class arraylist {
         arr.set(1,300);
         arr.add(2,60);
         System.out.println(arr);
-        arr.remove(Integer.valueOf(4));
+        arr.remove(Integer.valueOf(9));
         System.out.println(arr);
 
     }
