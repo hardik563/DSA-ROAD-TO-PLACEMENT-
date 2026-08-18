@@ -11,7 +11,6 @@ public class merge2array {
         int j=0;
 
         int k=0;
-
         //mergearray
         while(i<m && j<n){
 //merge of 2 array
