@@ -8,7 +8,7 @@ public class gcd {
 
         long a = sc.nextLong();
         long b = sc.nextLong();
-
+//gcd of two numbers
         long x = a;
         long y = b;
 
