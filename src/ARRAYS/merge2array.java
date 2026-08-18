@@ -9,7 +9,6 @@ public class merge2array {
         int []o=new int [m+n];
         int i=0;
         int j=0;
-
         int k=0;
         //mergearray
         while(i<m && j<n){
