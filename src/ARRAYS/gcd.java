@@ -19,7 +19,6 @@ public class gcd {
         }
         long gcd = a;
         long lcm = (x / gcd) * y;
-
         System.out.println(gcd + " " + lcm);
     }
 }
