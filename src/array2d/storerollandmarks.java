@@ -11,8 +11,6 @@ public class storerollandmarks {
                arr[i][j]=sc.nextInt();
 
             }
-
-
         }
 
         System.out.println("Roll no   Marks");
