@@ -7,8 +7,9 @@ public class kadane {
         int cs=0;
         for(int i=0;i<arr.length;i++){
             cs=cs+arr[i];
-            if(cs<0){
-
+            if(cs<0)
+            {
+            }
                 {
             cs=0;
         }
