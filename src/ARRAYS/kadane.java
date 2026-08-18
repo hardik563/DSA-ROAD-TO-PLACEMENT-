@@ -14,6 +14,7 @@ public class kadane {
             cs=0;
         }
         ms=Math.max(cs,ms);
+            
     }
         System.out.println("MAXIMUM SUM OF ARRAY IS "+ms);
 }
