@@ -5,6 +5,7 @@ public class time {
         // for a loop moving till 1 to n or 0 to n
         //then the tc will be big o of n O(n)
         int n=10;
+        int m=20;
         for (int i = 0; i < n; i++) {
             System.out.println(i);
 
@@ -18,5 +19,29 @@ public class time {
             System.out.println(i);
 
         }
+        int[] a=new int[n];
+        int[] b=new int[n];
+        for (int i = 0; i < n; i++) {
+            a[i] = i;
+            System.out.println(a[i]);
+        }
+        for (int i = 0; i < m; i++) {
+            b[i] = i;
+            System.out.println(b[i]);
+// tc will be O(n+m)
+            //as first loop working till n and second loop moving till m
+        }
+        //loop inside another loop
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+                System.out.println("OKAY");
+
+                //tc will be O(nm)
+                //nested loop multiply both tc
+
+            }
+
+        }
+
     }
 }
