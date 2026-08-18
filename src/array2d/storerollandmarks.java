@@ -6,7 +6,7 @@ public class storerollandmarks {
         int[][] arr=new int[4][2];
 
 
-        for (int i = 0; i < 6; i++) {
+        for (int i = 0; i < 8; i++) {
             for (int j = 0; j < 8 ; j++) {
                arr[i][j]=sc.nextInt();
 
