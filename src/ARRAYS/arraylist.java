@@ -12,7 +12,7 @@ public class arraylist {
         arr.add(2,5);
         System.out.println(arr);
         arr.set(1,300);
-        arr.add(1,60);
+        arr.add(2,60);
         System.out.println(arr);
         arr.remove(Integer.valueOf(4));
         System.out.println(arr);
