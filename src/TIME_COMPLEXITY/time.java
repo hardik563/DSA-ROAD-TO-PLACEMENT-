@@ -65,7 +65,7 @@ public class time {
         //space complexity
         int[][]arr=new int[n][m];
         //space willl become O(nm)
-
+        //time complexity
 
     }
 }
