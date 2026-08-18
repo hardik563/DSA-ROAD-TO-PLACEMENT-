@@ -27,6 +27,7 @@ public class merge2array {
             while(j<arr1.length){
                 o[k]=arr1[j];
                 j++;
+                
                 k++;
             }
         }
