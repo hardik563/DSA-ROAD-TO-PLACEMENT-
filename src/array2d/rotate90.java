@@ -19,7 +19,7 @@ public class rotate90 {
 
 
 
-        System.out.println( "rotate 90 degree matrix:");
+        System.out.println( "rotate 90 degree matrix is :");
 
         for (int i = 0; i < 3; i++) { // rows
             for (int j = i+1; j < 3; j++) { // columns
