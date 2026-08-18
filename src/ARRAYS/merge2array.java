@@ -30,7 +30,6 @@ public class merge2array {
         }
         for(int x=0;x<k;x++){
             System.out.print(o[x]+" ");
-
         }
 
     }
