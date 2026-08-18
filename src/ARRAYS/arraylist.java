@@ -5,13 +5,14 @@ import java.util.ArrayList;
 public class arraylist {
     public static void main(String[] args) {
 
+
         ArrayList<Integer>arr= new ArrayList<>();
         arr.add(0,4);
         arr.add(1,2);
         arr.add(2,4);
         System.out.println(arr);
         arr.set(1,300);
-        arr.add(3,59);
+        arr.add(3,60);
         System.out.println(arr);
         arr.remove(Integer.valueOf(4));
         System.out.println(arr);
