@@ -12,5 +12,10 @@ public class timepractise {
         //tc will be O(n)
 // if sqrt then tc will be log(logn)
 
+        for (int i = 0; i < n; i+=i) {
+            // for this also tc will be O(log n)
+
+        }
+
     }
 }
