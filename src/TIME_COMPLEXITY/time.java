@@ -49,7 +49,7 @@ public class time {
                 System.out.println("hello");
 // tc will be O(n^2)
             }
-            
+
         }
         int c=0;
         for (int i = 0; i <n ; i*=2) {
@@ -60,7 +60,6 @@ public class time {
         for (int i = 0; i < n; i/=2) {
             r++;
             // both multiply and divide give tc as  O(log n)
-
         }
 
         //space complexity
