@@ -13,5 +13,10 @@ public class time {
             System.out.println(i);
 
         }
+        for (int i = 0; i < 200; i++) {
+            //tc is O(1) constant time
+            System.out.println(i);
+
+        }
     }
 }
