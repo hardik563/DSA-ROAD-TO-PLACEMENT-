@@ -9,7 +9,7 @@ public class arraylist {
         ArrayList<Integer>arr= new ArrayList<>();
         arr.add(0,4);
         arr.add(1,2);
-        arr.add(2,4);
+        arr.add(2,5);
         System.out.println(arr);
         arr.set(1,300);
         arr.add(3,60);
