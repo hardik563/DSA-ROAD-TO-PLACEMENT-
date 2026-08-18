@@ -3,7 +3,7 @@ package ARRAYS;
 public class merge2array {
     public static void main(String[] args) {
         int []arr={4,6,8,10};
-        int[]arr1={5,9,12,13};
+        int[]arr1={5,9,1,98};
         int m=arr.length;
         int n=arr1.length;
         int []o=new int [m+n];
