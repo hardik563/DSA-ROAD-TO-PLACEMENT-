@@ -11,7 +11,7 @@ public class array2dd  {
         arr[1][2]=6;
         arr[2][0]=56;
         arr[2][1]=4;
-        arr[2][2]=23;
+        arr[2][2]=234;
         for (int i = 0; i < arr.length; i++) {
             for (int j = 0; j <arr.length ; j++) {
                 System.out.print(arr[i][j]+" ");
