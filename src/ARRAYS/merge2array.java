@@ -27,11 +27,12 @@ public class merge2array {
             while(j<arr1.length){
                 o[k]=arr1[j];
                 j++;
-                
+
                 k++;
             }
         }
         for(int x=0;x<k;x++){
+            
             System.out.print(o[x]+" ");
         }
     }
