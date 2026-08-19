@@ -27,6 +27,7 @@ public class bubbble_sort {
             //printing of array after bubble sort
         }
         System.out.println();
+        
     }
 
     public static void main(String[] args) {
