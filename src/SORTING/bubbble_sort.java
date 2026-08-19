@@ -14,7 +14,6 @@ public class bubbble_sort {
            for(int j=0;j<arr.length-1-turn;j++){
                //swap of largest and pushing it to last
               if(arr[j]>arr[j+1]){
-
                   int temp=arr[j];
                   //the one which is largest always go at last in first turn
                   arr[j]=arr[j+1];
