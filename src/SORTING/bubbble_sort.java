@@ -10,6 +10,7 @@ public class bubbble_sort {
 
 
         for (int turn=0;turn<arr.length-1;turn++){
+            
            for(int j=0;j<arr.length-1-turn;j++){
               if(arr[j]>arr[j+1]){
                   //swap of largest and pushing it to last
@@ -27,7 +28,7 @@ public class bubbble_sort {
             //printing of array after bubble sort
         }
         System.out.println();
-        
+
     }
 
     public static void main(String[] args) {
