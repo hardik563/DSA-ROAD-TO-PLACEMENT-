@@ -31,7 +31,7 @@ public class bubbble_sort {
 
     public static void main(String[] args) {
         //input
-        int []arr={3,5,4,2,1};
+        int []arr={4,3,6,5,2,1,};
         bubbleSort(arr);
         printArr(arr);
 
