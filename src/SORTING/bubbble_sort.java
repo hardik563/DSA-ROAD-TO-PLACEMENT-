@@ -16,6 +16,7 @@ public class bubbble_sort {
                   arr[j]=arr[j+1];
                   arr[j+1]=temp;
               }
+              
            }
         }
     }
