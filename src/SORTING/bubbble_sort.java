@@ -13,7 +13,6 @@ public class bubbble_sort {
                //swap of largest and pushing it to last
               if(arr[j]>arr[j+1]){
                   int temp=arr[j];
-
                   arr[j]=arr[j+1];
                   arr[j+1]=temp;
               }
