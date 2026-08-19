@@ -1,5 +1,5 @@
 package SORTING;
-import java.util.*;
+
 public class bubbble_sort {
     //bubble sort
     //{5,2,4,3,1]
