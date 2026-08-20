@@ -18,6 +18,7 @@ public class selectionsort_code {
             arr[minPos] = arr[i];
             arr[i] = temp;
         }
+
     }
 
     public static void printArr(int[] arr) {
