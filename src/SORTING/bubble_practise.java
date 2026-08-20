@@ -26,6 +26,7 @@ public class bubble_practise {
     public static void main(String[] args) {
        int []arr={5,2,4,3,1,6};
        bubbleeee(arr);
-       
+       printArr(arr);
+
     }
 }
