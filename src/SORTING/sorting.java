@@ -10,6 +10,8 @@ public class sorting {
         //selection sort
         //insertion sort
         //counting sort
-        //an many more
+        //an many more\
+        //sort in an particular order  like sorted order
+        //increaing order or ascending order or non decreasing order
     }
 }
