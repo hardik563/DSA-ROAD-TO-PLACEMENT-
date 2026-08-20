@@ -12,6 +12,9 @@ public class selectionsort_code {
                  minPos=j;
              }
             }
+            //swap
+            int temp=arr[minPos];
+            arr[minPos]=arr[i];
         }
     }
 }
