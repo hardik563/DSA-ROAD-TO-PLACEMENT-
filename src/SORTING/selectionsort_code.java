@@ -8,7 +8,9 @@ public class selectionsort_code {
         for(int i=0;i<arr.length-1;i++){
             int minPos=i;
             for(int j=i+1;j<arr.length-1;j++){
-
+             if(arr[minPos]>arr[j]){
+                 
+             }
             }
         }
     }
