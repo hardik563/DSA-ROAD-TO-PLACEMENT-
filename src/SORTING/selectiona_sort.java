@@ -7,5 +7,6 @@ public class selectiona_sort {
         //and put it at the beginning
         //in same say we do
         //and at last the array will be sorted array
+        //selection sort done
     }
 }
