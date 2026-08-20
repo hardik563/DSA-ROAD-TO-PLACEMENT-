@@ -30,5 +30,6 @@ public class selectionsort_code {
         public static void main(String[] args) {
         int[] arr={4,1,5,2,3,6};
         selectionsort(arr);
+        printArr(arr);
     }
 }
