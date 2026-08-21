@@ -19,7 +19,6 @@ public class unique_path {
         int right = recall(m, n, i, j + 1);
         return down + right;
     }
-    
     public static void main(String[] args) {
         int m = 4;
         int n = 4;
