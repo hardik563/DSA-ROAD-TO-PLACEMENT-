@@ -5,7 +5,7 @@ public class unique_path {
         int j = 0;
         int x = recall(m, n, i, j);
         return x;
-        
+
     }
     public static int recall(int m, int n, int i, int j) {
         if (i == m - 1 && j == n - 1) {
@@ -20,6 +20,7 @@ public class unique_path {
         return down + right;
     }
     public static void main(String[] args) {
+        
         int m = 4;
         int n = 4;
         System.out.println(uniquePaths(m, n));
