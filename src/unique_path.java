@@ -13,7 +13,6 @@ public class unique_path {
             return 1;
         }
         if (i >= m || j >= n) {
-            
             return 0;
         }
         int down = recall(m, n, i + 1, j);
