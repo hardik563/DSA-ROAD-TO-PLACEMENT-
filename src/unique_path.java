@@ -12,12 +12,13 @@ public class unique_path {
             return 1;
         }
         if (i >= m || j >= n) {
-            
+
             return 0;
         }
         int down = recall(m, n, i + 1, j);
         int right = recall(m, n, i, j + 1);
         return down + right;
+        
     }
     public static void main(String[] args) {
         int m = 4;
