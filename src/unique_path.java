@@ -3,7 +3,6 @@ public class unique_path {
     public static int uniquePaths(int m, int n) {
         int i = 0;
         int j = 0;
-
         int x = recall(m, n, i, j);
         return x;
     }
