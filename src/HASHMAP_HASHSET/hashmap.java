@@ -12,6 +12,6 @@ public class hashmap {
         System.out.println(map);
         map.put("hardik",100);
         System.out.println(map);
-        
+        System.out.println(map.get("hardik"));
     }
 }
