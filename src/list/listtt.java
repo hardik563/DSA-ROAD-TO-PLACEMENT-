@@ -12,7 +12,6 @@ public class listtt {
         Collections.sort(list);
         System.out.println("Ascending order: " + list);
 
-
         Collections.sort(list, Collections.reverseOrder());
         System.out.println("Descending order: " + list);
     }
